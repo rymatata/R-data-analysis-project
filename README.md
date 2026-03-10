@@ -1,11 +1,11 @@
 # Analysis of Data Collected on Forest Fires
-Through the utilization of SAS, this project aims to analyze climate and meteorologic data gathered from burned areas within a forest in the northeast region of Portugal. Weather factors such as temperature and air humidity play a significant role in determining whether any future natural event/weather change may be occurring. Offering tell-tale signs of things to come via specific conditions or occurences. Thus, the analysis of this data will be used to determine the effectiveness of using meteoroligical data to predict forest fires within a designated area through the form of a focused research question.
+Through the utilization of R, this project aims to analyze climate and meteorologic data gathered from burned areas within a forest in the northeast region of Portugal. Weather factors such as temperature and air humidity play a significant role in determining whether any future natural event/weather change may be occurring. Offering tell-tale signs of things to come via specific conditions or occurences. Thus, the analysis of this data will be used to determine the effectiveness of using meteoroligical data to predict forest fires within a designated area through the form of a focused research question.
 
 The code and results can be found within this repository in their respective folders.
 
 # Research Question
 ## Can meteorological variables accurately predict logarithmically transformed burned areas and which predictors are most significant?
-In order to answer this question, various different plots and analyses such as histograms, residual comparisons, and R-squared tests will be leveraged within SAS.
+In order to answer this question, various different plots and analyses such as histograms, residual comparisons, and R-squared tests will be leveraged within R.
 
 ### Variables
 | Variable Name  | Description |
