@@ -18,11 +18,11 @@ In order to answer this question, various different plots and analyses such as h
 | DMC  | Duff Moisture Code; numeric rating of average moisture content for moderate depth organic layers that are loosely compacted  |
 | DC  | Drought Code; numeric rating of the average moisture content for deep, compact organic layers  |
 | ISI  | Initial Spread Index; numeric rating of the expected rate of fire spread  |
-| Temp  | Temperature in Celsius degrees  |
-| RH  | Relative humidity in %  |
-| Wind  | Wind speed in km/h  |
-| Rain  | Outside rain in mm/m^2  |
-| Area  | The burned area of the forest in ha  |
+| Temp  | Temperature (°C)  |
+| RH  | Relative humidity (%)  |
+| Wind  | Wind speed (km/h)  |
+| Rain  | Outside rain (mm/m^2)  |
+| Area  | The burned area of the forest (ha)  |
 
 The four major variables that will be scrutinized in this analysis are "Temp", "RH", "Wind", and "Rain".
 
